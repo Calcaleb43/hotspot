@@ -2120,7 +2120,7 @@ section.job-details .form-control::-webkit-input-placeholder {
     }
 }
 .bg-login{
-    background: url('../images/geometry_bg.png') repeat;
+    background: url('../images/banner-bg.jpg') no-repeat;
 }
 .section_login {
     margin-top: 100px;
